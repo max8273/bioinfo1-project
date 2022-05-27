@@ -3,6 +3,9 @@
 
 선정한 과제
 
+![image](https://user-images.githubusercontent.com/100824329/170662107-e181b52f-11ef-44ab-82eb-bf1f4f74f9d7.png)
+
+
 Fig S2A 재현해보기 - error가 많이 나오는 부분의 unique sequence들의 각각 개수를 세서 genome browser로 표현하고, 점수 트랙을 같이 표시합니다.
 
 아이디어 구상 및 계획
@@ -22,3 +25,4 @@ Mirlet7d locus와 the Mirlet7f-1 locus에 맟춰 정렬된 LIN28A CLIP 라이브
 4. 미비된 사항 추가 및 응용
 
 발표 전(6/10)까지 진행 예정
+
