@@ -35,6 +35,7 @@ Mirlet7d locus와 the Mirlet7f-1 locus에 맟춰 정렬된 LIN28A CLIP 라이브
 (6/3)까지
 
 7. 미비된 사항 추가 및 응용
+
  Add Custom Tracks 시도
 
  발표 전(6/10)까지 진행 예정
